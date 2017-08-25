@@ -1,6 +1,4 @@
 
-setwd("/Users/Sean/Documents/School/Stats315B/Homework1")
-
 library(gbm)
 col.Classes=c(income="numeric", sex="factor", marital.status="factor", age="numeric", education="numeric", occup="factor", time.here="numeric", dual.incomes= "factor", persons="numeric", persons.under18="numeric", owner.status="factor", home.type="factor", ethnicity="factor", language="factor")
 

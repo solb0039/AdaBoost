@@ -1,4 +1,3 @@
-setwd("/Users/Sean/Documents/School/Stats315B/Homework2")
 
 library(gbm)
 housedata<-read.table(file="California_Data.txt", sep=",")

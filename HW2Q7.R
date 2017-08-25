@@ -1,4 +1,3 @@
-setwd("/Users/Sean/Documents/School/Stats315B/Homework2")
 
 library(gbm)
 reflabs<-c("Occupation", "HomeType", "Sex", "Maritial", "Age", "Education", "HouseIncome", "TimeInBay", "DualIncomes", "PersonsHouse", "PersonsUnder18", "HomeOwnerStatus", "Ethnicity", "Language")
