@@ -1,5 +1,4 @@
 library(gbm)
-setwd("/Users/Sean/Documents/School/Stats315B/Homework2")
 spam<-read.table(file="Spam_Train.txt", sep=",")
 
 rflabs<-c("make", "address", "all", "3d", "our", "over", "remove",
